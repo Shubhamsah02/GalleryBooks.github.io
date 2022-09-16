@@ -1,0 +1,6 @@
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\netcoreapp3.1\AppServiceLayer.csproj.AssemblyReference.cache
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\netcoreapp3.1\AppServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\netcoreapp3.1\AppServiceLayer.AssemblyInfoInputs.cache
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\netcoreapp3.1\AppServiceLayer.AssemblyInfo.cs
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\netcoreapp3.1\AppServiceLayer.csproj.CoreCompileInputs.cache
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\netcoreapp3.1\AppServiceLayer.MvcApplicationPartsAssemblyInfo.cache

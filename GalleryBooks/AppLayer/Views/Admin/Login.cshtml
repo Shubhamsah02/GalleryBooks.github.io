@@ -1,0 +1,44 @@
+﻿@model AppLayer.Models.Admins
+@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+<div>
+   <section class="vh-100">
+    <div class="container py-5 h-100">
+       <div class="row d-flex align-items-center justify-content-center h-100">
+              <h1>Login Page</h1>
+      <div class="col-md-8 col-lg-7 col-xl-6">   
+        <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.svg"
+          class="img-fluid" alt="Phone image"> 
+      </div>
+
+      <div class="col-md-7 col-lg-5 col-xl-5 offset-xl-1">
+           @{
+        if(ViewBag.Invalid==true){
+            <label class="text-danger">Invalid Username or Password</label>
+        }
+    }
+      <form asp-route="Login" class="form-control">
+          <!-- Email input -->
+
+          <div class="form-outline mb-4">
+              <label class="form-label" asp-for="EmailId">Email address</label>
+             <input type="email" asp-for="EmailId" class="form-control form-control-lg" />
+             <span asp-validation-for="EmailId"></span>
+          </div>
+          <!-- Password input -->
+          <div class="form-outline mb-4">
+            <label class="form-label"  asp-for="Password">Password</label>
+            <input type="password" asp-for="Password" class="form-control form-control-lg" />
+            <span asp-validation-for="Password"></span>
+          </div>
+          
+          <button type="submit" class="btn btn-primary btn-lg btn-block">Login</button>
+
+      </form>
+      </div>
+    </div>
+  </div>
+</section>
+</div>

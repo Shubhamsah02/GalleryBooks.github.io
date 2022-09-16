@@ -1,0 +1,72 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/css/bootstrap.css" rel="stylesheet" />
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+   
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+             <div class="container-fluid">
+            <a class="navbar-brand" href="#">Stridely Solutions</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                   
+                     @*   <a class="navbar-brand" asp-route="GetAll">Home</a>*@
+                        <a class="navbar-brand" asp-route="GetAll">Home </a>
+                    </li>
+                 <</ul>/>
+                  <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <a class="navbar-brand" type="submit" asp-action="saveBook" asp-controller="Admin">Save Books</a>
+                  </div>
+      
+                      @{
+                    var Login = @HttpContextAccessor.HttpContext.Session.GetString("Email");
+                    if(Login==null)
+                    {
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" asp-route="Login">Login</a>
+                            </li>
+                        </ul>
+                    }
+                    else
+                    {
+                        <ul class="navbar-nav ms-auto">
+                         <li class="nav-item">
+                               <p class="text-primary">@Login</p> 
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-route="Logout">Logout</a>
+
+                            </li>
+                        </ul>
+                    }
+                }
+                  
+      
+                     
+                }
+               
+            </div>
+        </nav>
+    </div>
+    <div class="container">
+
+     @RenderBody();
+        <script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js" integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous"></script>
+    </div>
+</body>
+</html>

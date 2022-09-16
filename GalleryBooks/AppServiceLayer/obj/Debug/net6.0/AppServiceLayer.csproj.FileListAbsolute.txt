@@ -1,0 +1,254 @@
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.AssemblyReference.cache
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.AssemblyInfoInputs.cache
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.AssemblyInfo.cs
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.CoreCompileInputs.cache
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\appsettings.Development.json
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\appsettings.json
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.exe
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.deps.json
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.runtimeconfig.json
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.pdb
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\DAL.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\DAL.pdb
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\scopedcss\bundle\AppServiceLayer.styles.css
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.CopyComplete
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\refint\AppServiceLayer.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.pdb
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.genruntimeconfig.cache
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\ref\AppServiceLayer.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.MvcApplicationPartsAssemblyInfo.cs
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\System.Web.Http.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Balkrishna\Training\4-ASP.Net\2-ASP.Net Core MVC\OBGApp\AppServiceLayer\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.AssemblyReference.cache
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.AssemblyInfoInputs.cache
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.AssemblyInfo.cs
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\refint\AppServiceLayer.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.pdb
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\appsettings.json
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.exe
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.deps.json
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.runtimeconfig.json
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.pdb
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\DAL.dll
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\DAL.pdb
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\scopedcss\bundle\AppServiceLayer.styles.css
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.CopyComplete
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.genruntimeconfig.cache
+C:\Users\ssah\source\repos\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\ref\AppServiceLayer.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\appsettings.json
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.exe
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.deps.json
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.runtimeconfig.json
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.pdb
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\DAL.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\DAL.pdb
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.AssemblyReference.cache
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.AssemblyInfoInputs.cache
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.AssemblyInfo.cs
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\scopedcss\bundle\AppServiceLayer.styles.css
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.CopyComplete
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\refint\AppServiceLayer.dll
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.pdb
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.genruntimeconfig.cache
+C:\Users\ssah\Desktop\Project\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\ref\AppServiceLayer.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\appsettings.json
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.exe
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.deps.json
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.runtimeconfig.json
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\AppServiceLayer.pdb
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\DAL.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\bin\Debug\net6.0\DAL.pdb
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.AssemblyReference.cache
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.AssemblyInfoInputs.cache
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.AssemblyInfo.cs
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\scopedcss\bundle\AppServiceLayer.styles.css
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.csproj.CopyComplete
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\refint\AppServiceLayer.dll
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.pdb
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\AppServiceLayer.genruntimeconfig.cache
+C:\Users\ssah\Desktop\GalleryBooks\GalleryBooks\AppServiceLayer\obj\Debug\net6.0\ref\AppServiceLayer.dll

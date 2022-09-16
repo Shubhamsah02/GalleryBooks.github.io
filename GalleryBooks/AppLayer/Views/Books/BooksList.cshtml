@@ -1,0 +1,100 @@
+﻿@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+@{
+    ViewBag.Title = "BookList";
+   <link href="~/css/bootstrap.css" rel="stylesheet" />
+}
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $("#genre").hide();
+        $("#Filter").change(function () {
+            var selected = $(this).val();
+            if (selected == "Genre") {
+                $("#genre").show();
+                $("#txt").hide();
+            } else {
+                $("#genre").hide();
+                $("#txt").show();
+            }
+        });
+    });
+
+</script>
+<div style="text-align:center"><h2>Welcome to Books Gallary</h2></div>
+
+<div><h2 class="text-center">List of Books</h2></div>
+
+<div class="container">
+    @using (Html.BeginForm("SearchBook", "Home", FormMethod.Post))
+    {
+        <div class="row">
+            <div class="col-md-2">
+                @Html.Label("Select Filter")
+            </div>
+            <div class="col-md-2">
+                @Html.DropDownList("Filter", new List<SelectListItem>()
+                {
+                    new SelectListItem(){ Text= "Author", Value = "Author"},
+                    new SelectListItem(){ Text= "Title", Value = "Title"},
+                    new SelectListItem(){ Text= "Genre", Value = "Genre"}
+                }, "--Select Filter--", new { @class = "form-control" })
+            </div>
+            <div class="col-md-2">
+                @Html.DropDownList("genre", new List<SelectListItem>()
+                {
+
+                    new SelectListItem(){ Text= "Fiction", Value = "0"},
+                    new SelectListItem(){ Text= "Novel", Value = "1"},
+                     new SelectListItem(){ Text= "Narrative", Value = "2"},
+                    new SelectListItem(){ Text= "ScienceFiction", Value = "3"},
+                    new SelectListItem(){ Text= "MyStery", Value = "4"},
+                     new SelectListItem(){ Text= "Fantasy", Value = "5"},
+                    new SelectListItem(){ Text= "Horror", Value = "6"},
+                    new SelectListItem(){ Text= "Technology", Value = "7"}
+                }, "--Select Genre--", new { @class = "form-control" })
+            </div>
+            <div class="col-md-4">
+                <input type="text" id="txt" name="txt" class="form-control" />
+            </div>
+            <div class="col-md-2">
+                <input type="submit" value="Search" class="btn btn-success" />
+            </div>
+            <div><br /></div>
+        </div>
+    }
+
+     @using (Html.BeginForm("GetBookById", "Home", FormMethod.Post))
+    {
+
+       <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var book in Model)
+            {
+
+                <div class="col-md-4">
+                     <div class="col">
+                      <div class="card h-130">
+                        <img src="@Url.Content(book.ImageUrl)" height="300" class="card-img-top" alt="sample image">
+                         <div class="card-footer">
+                            <h5 class="card-title">Title:@book.BookName</h5>
+                            <p>ISBN:@book.ISBN </p>
+                            <p>Author:@book.AuthorName</p>
+                            <p>Genre:@book.BookGenre</p>
+                            @Html.ActionLink("Book Description", "GetBookById", new { @id = book.ISBN }, new { @class = "btn btn-primary" })
+                          @*  <a asp-action="saveBook" asp-controller="Admin" >Add Books</a>*@
+                              <a class="btn btn-primary" type="submit" asp-action="UpdatesBooks" asp-controller="Admin" > Update Books</a>
+
+                        </div>
+                    </div>
+                     </div>
+                    <div><br /></div>
+                </div>
+
+            }
+        </div>
+
+    }
+</div>
+
